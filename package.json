@@ -1,0 +1,19 @@
+{
+  "name": "razorpay-clone",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Piyush Gupta",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.13",
+    "vite": "^7.1.4"
+  },
+  "devDependencies": {}
+}
